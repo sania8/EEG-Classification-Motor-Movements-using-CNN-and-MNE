@@ -20,7 +20,6 @@ Or you can also download data set by using the code provisded in the collab note
 🧠 CNNs are a type of deep learning algorithm commonly used for image recognition tasks. In this project, CNNs are employed to analyze EEG signals and extract meaningful features for classification.
 
 📡 MNE (MNE-Python) is a Python package for processing and analyzing MEG (Magnetoencephalography) and EEG data. It provides a rich set of tools for preprocessing, visualization, and analysis of neuroimaging data.
-The customized model gave training accuracy of 83% and testing accuracy of 76%.
 
 ## How to Use
 
